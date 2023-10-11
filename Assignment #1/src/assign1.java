@@ -11,7 +11,7 @@ public class assign1 {
 	// This is the first part of the assignment. It includes all of the criteria in which I need to state my Name, Date of creation, Assignment, Program name, and the Description of the assignment.
 		System.out.println("Name: Alean Rodriguez");
 	
-		System.out.println("Student ID: 4000198511");
+		System.out.println("Student ID: MDCID");
 	
 		System.out.println("Major: Computer Science");
 		
@@ -19,7 +19,7 @@ public class assign1 {
 	
 		System.out.println("Computer Programming Experience: An Introductory Course in C++ at MDC");
 	
-		System.out.println("Hobbies: Playing Videogames\n \t Playing the Ukelele\n \t Watching Netflix\n");
+		System.out.println("Hobbies: Excercising\n \t Playing the Guitar\n \t Watching Netflix\n");
 	// This will be the second part of the assignment. This requires the student to display two variables, 1: The Actual letter 'D' % 2: The Unicode number of the letter 'D'.
 		
 		char CharacterofD = 'D'; //This is the alphabetic character of the letter D initialized into a char variable.
